@@ -48,5 +48,5 @@ The main objective is to explore:
    - Observed behavioral shifts in leverage and position size based on market sentiment.
    - Highlighted specific trading patterns that emerge during sentiment extremes.
 
-## Folder Structure
+
 
